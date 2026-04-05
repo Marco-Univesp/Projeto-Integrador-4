@@ -1,5 +1,6 @@
 Projeto Integrador 4
-Este é um projeto desenvolvido para a disciplina de Projeto Integrador III.
+
+Este é um projeto desenvolvido para a disciplina de Projeto Integrador IV.
 
 Tecnologias
 Python
